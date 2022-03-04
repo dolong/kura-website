@@ -37,7 +37,10 @@
     "thumbnail": "/img/portfolio/neotokyo.png",
     "title": "Neo Tokyo",
     "keyword": "neotokyo",
-    "sub": "Image",
+    "sub": {
+      "en-US" : "The Neo Tokyo NFTs were released in October 2021 and were created by the well-known Crypto YouTuber Alex Becker as well as developer Elliotrades.",
+      "fr" : "The Neo Tokyo NFTs were released in October 2021 and were created by the well-known Crypto YouTuber Alex Becker as well as developer Elliotrades."
+    },
     "link": "https://opensea.io/collection/neotokyo-outer-identities"
   }
 ]
