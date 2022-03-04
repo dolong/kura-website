@@ -115,13 +115,7 @@ const Portfolio = ({ languageContent, locale }) => {
                             onClick={() => showLightBox(index)}
                           ></a>
                         </div>
-                        {image.link && (
-                          <div className='external-link'>
-                            <a href={image.link} target='_blank'>
-                              {languageContent.externalLink}
-                            </a>
-                          </div>
-                        )}
+                        {image.link }
                       </SwiperSlide>
                     ))}
                   </Swiper>

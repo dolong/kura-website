@@ -1,27 +1,20 @@
 [
   {
-    "icon": "./img/svg/wordpress.svg",
-    "title": "WordPress Development",
-    "price": "500"
+    "icon": "./img/svg/iconmonstr-twitter-3.svg",
+    "title": "Digital Marketing Package",
+    "price": "Contact Us",
+    "mailto": "mailto:whaledrop@probablynothing.dev"
   },
   {
-    "icon": "./img/svg/wordpress.svg",
-    "title": "WordPress Development",
-    "price": "500"
+    "icon": "./img/svg/Discord-Logo-White.svg",
+    "title": "Discord Packages",
+    "price": "Contact Us",
+    "mailto": "mailto:whaledrop@probablynothing.dev"
   },
   {
-    "icon": "./img/svg/wordpress.svg",
-    "title": "WordPress Development",
-    "price": "500"
-  },
-  {
-    "icon": "./img/svg/wordpress.svg",
-    "title": "WordPress Development",
-    "price": "500"
-  },
-  {
-    "icon": "./img/svg/wordpress.svg",
-    "title": "WordPress Development",
-    "price": "500"
+    "icon": "./img/svg/ethereum-eth-logo.svg",
+    "title": "Custom Packages",
+    "price": "Contact Us",
+    "mailto": "mailto:whaledrop@probablynothing.dev"
   }
 ]

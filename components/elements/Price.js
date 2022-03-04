@@ -1,6 +1,7 @@
 import React from "react"
 
 import PRICE from "../../data/PRICE.json"
+import Contact from "./Contact"
 
 const Price = () => {
   return (
@@ -35,7 +36,7 @@ const Price = () => {
                               <span>{item.title}</span>
                             </div>
                             <div className="cost">
-                              <span>${item.price}</span>
+                              <a href={item.mailto}><span>{item.price}</span></a>
                             </div>
                             <img src={item.icon} alt="" className="svg replaced-svg"/>
                           </div>
