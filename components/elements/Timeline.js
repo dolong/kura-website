@@ -9,21 +9,21 @@ const Timeline = ({ languageContent, locale }) => {
         <div className="kura_tm_timeline">
           <div className="container">
             <div className="kura_tm_main_title">
-              <span>{languageContent.timelineTitle}</span>
-              <h3>{languageContent.timelineSubtitle}</h3>
+              <span>Works</span>
+              <h3>Working with key industry leaders</h3>
             </div>
             <div className="timeline_list">
               <ul>
                   {TIMELINE[locale] && TIMELINE[locale].map((time, index) => (
                       <li className="wow fadeInUp" data-wow-duration=".7s" key={index}>
                       <div className="list_inner">
-                        <span>{time.period}</span>
-                      </div>
-                      <div className="list_inner">
                         <span>{time.role}</span>
                       </div>
                       <div className="list_inner">
-                        <span>{time.company}, {time.location}</span>
+                        <span>{time.company}</span>
+                      </div>
+                      <div className="list_inner">
+                        <span>{time.location}</span>
                       </div>
                     </li>
                   )

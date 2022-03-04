@@ -43,7 +43,7 @@ const Header = ({ languageContent, setLocaleValue }) => {
           <div className="topbar_inner">
             <div className="logo">
               <a href="#">
-                <img src="/img/svg/Logo-Base.svg" alt="" />
+                <img src="/img/logo.png" alt="" />
               </a>
             </div>
             <div className="menu">
@@ -70,28 +70,6 @@ const Header = ({ languageContent, setLocaleValue }) => {
                   <li className={isToggled ? "opened" : ""}>
                     <a href="#contact">{languageContent.headerContact}</a>
                   </li>
-                  <li className="opened language">
-                    <a>
-                      <Image
-                        className="svg"
-                        src="/img/svg/frenchflagframed.svg"
-                        height="30"
-                        width="30"
-                        alt=""
-                        onClick={() => setLocaleValue("fr")}
-                      />
-                    </a>
-                    <a>
-                      <Image
-                        className="svg"
-                        src="/img/svg/US-UK_Flag.svg"
-                        height="30"
-                        width="35"
-                        alt=""
-                        onClick={() => setLocaleValue("en-US")}
-                      />
-                    </a>
-                  </li>
                 </ul>
               </div>
               <div className="trigger" onClick={toggleTrueFalse}>
@@ -116,7 +94,7 @@ const Header = ({ languageContent, setLocaleValue }) => {
           <div className="mobile_in">
             <div className="logo">
               <a href="#">
-                <img src="/img/svg/Logo-Base.svg" alt="" />
+                <img src="/img/logo.png" alt="" />
               </a>
             </div>
             <div className="trigger" onClick={toggleTrueFalse}>

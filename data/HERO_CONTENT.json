@@ -1,48 +1,7 @@
 {
-  "fr": [
-    {
-      "title": "Développement Web",
-      "description": [
-        {
-          "text": [
-            "Développeur Front End ReactJS & NextJS, mon objectif est de livrer l'application web qui correspond le plus aux attentes de mes clients.",
-            "Toujours à la recherche de nouveaux défis, j'améliore sans cesse mes pratiques en utilisant les dernières technologies existantes."
-          ]
-        }
-      ],
-      "image": "img/hero/dev.png",
-      "keyword": "web"
-    },
-    {
-      "title": "Design graphique",
-      "description": [
-        {
-          "text": [
-            "Une bonne compréhension du design peut faire la différence entre une application web médiocre et une excellente.",
-            "Mes précédentes expériences de travail pour et avec des designers, combinées à des cours en ligne, me permettent de proposer une interface utilisateur améliorée avec un meilleur aspect visuel."
-          ]
-        }
-      ],
-      "image": "img/hero/graph.png",
-      "keyword": "graph"
-    },
-    {
-      "title": "DevOps",
-      "description": [
-        {
-          "text": [
-            "Approche/philosophie DevOps qui permet de prendre en compte les différentes étapes du process de déploiement.",
-            "L'objectif étant une meilleur continuité  et une meilleure gestion générale des étapes d'intégration et de déploiement/livraison."
-          ]
-        }
-      ],
-      "image": "img/hero/graph.png",
-      "keyword": "devops"
-    }
-  ],
   "en-US": [
     {
-      "title": "Web Development",
+      "title": "Marketing",
       "description": [
         {
           "text": [
@@ -55,7 +14,7 @@
       "keyword": "web"
     },
     {
-      "title": "Graphic Design",
+      "title": "Discord Moderation",
       "description": [
         {
           "text": [
@@ -68,7 +27,7 @@
       "keyword": "graph"
     },
     {
-      "title": "DevOps",
+      "title": "Growth Strategy",
       "description": [
         {
           "text": [

@@ -837,10 +837,10 @@ body.opened .kura_tm_hero .content .right {
 }
 body.opened .kura_tm_hero .content .right .image .main {
   transform: rotate(7deg);
-  background-image: url("/img/ming-shan-vertical.jpg");
+  background-image: url("/img/metaverse.png");
   background-attachment: fixed;
   background-position-x: 500px;
-  background-position-y: -1700px;
+  background-size: contain;
 }
 .kura_tm_hero .content .right .image .shape {
   position: absolute;
@@ -2371,7 +2371,7 @@ body.dark .kura_tm_settings .cursor li .svg,
 @media (max-width: 2400px) {
   body.opened .kura_tm_hero .content .right .image .main {
     background-position-x: 500px;
-    background-position-y: -1250px;
+    background-position-y: -100px;
   }
 }
 

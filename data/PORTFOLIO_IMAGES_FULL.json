@@ -15,57 +15,12 @@
     "sub": "Image",
     "link": "https://tboittin.vercel.app/"
   },
-
   {
-    "src": "/img/portfolio/react-portfolio.png",
-    "thumbnail": "/img/portfolio/react-portfolio.png",
-    "title": "React Portfolio",
-    "keyword": "react",
+    "src": "/img/portfolio/neotokyo.png",
+    "thumbnail": "/img/portfolio/neotokyo.png",
+    "title": "Neo Tokyo",
+    "keyword": "neotokyo",
     "sub": "Image",
-    "link": "https://tboittin.github.io/"
-  },
-  {
-    "src": "/img/portfolio/jamming.jpg",
-    "thumbnail": "/img/portfolio/jamming.jpg",
-    "title": "Jamming",
-    "keyword": "jamming",
-    "sub": "Image",
-    "link": "https://jamming-wheat.vercel.app/"
-  },
-  {
-    "src": "/img/portfolio/ravenous.jpg",
-    "thumbnail": "/img/portfolio/ravenous.jpg",
-    "title": "Ravenous",
-    "keyword": "ravenous",
-    "sub": "Image",
-    "link": "https://ravenous-zeta.vercel.app/"
-  },
-  {
-    "src": "/img/portfolio/freelancer.jpg",
-    "thumbnail": "/img/portfolio/freelancer.jpg",
-    "title": "Freelancer Theme",
-    "keyword": "freelancer",
-    "sub": "Image"
-  },
-  {
-    "src": "/img/portfolio/FitActive.png",
-    "thumbnail": "/img/portfolio/FitActive.png",
-    "title": "FitActive WordPress website",
-    "keyword": "fitactive",
-    "sub": "Image"
-  },
-  {
-    "src": "/img/portfolio/excursion.jpg",
-    "thumbnail": "/img/portfolio/excursion.jpg",
-    "title": "Excursion",
-    "keyword": "excursion",
-    "sub": "Image"
-  },
-  {
-    "src": "/img/portfolio/colmar.jpg",
-    "thumbnail": "/img/portfolio/colmar.jpg",
-    "title": "Colmar Academy",
-    "keyword": "colmar",
-    "sub": "Image"
+    "link": "https://opensea.io/collection/neotokyo-outer-identities"
   }
 ]

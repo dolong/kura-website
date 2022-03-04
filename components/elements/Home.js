@@ -27,7 +27,7 @@ const Home = ({ languageContent, locale }) => {
           <div className="container">
             <div className="content">
               <div className="left">
-                <span className="name">Thomas Boittin</span>
+                <span className="name">Probably Nothing</span>
                 <h3 className="job">{languageContent.job}</h3>
                 <div className="services">
                   <ul>

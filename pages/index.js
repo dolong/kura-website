@@ -7,8 +7,8 @@ import Home from "../components/elements/Home"
 import Portfolio from "../components/elements/Portfolio"
 import Skills from "../components/elements/Skills"
 import Timeline from "../components/elements/Timeline"
-// import News from "../components/elements/News";
-// import Price from "../components/elements/Price";
+import News from "../components/elements/News";
+import Price from "../components/elements/Price";
 import Footer from "../components/layout/Footer"
 import Header from "../components/layout/Header"
 
@@ -22,8 +22,8 @@ export default function Index() {
   const [localeValue, setLocaleValue] = useState(locale)
 
   const description =
-    "Thomas Boittin - Portfolio. Passionné de développement avec des compétences graphiques. French developer enthusiast with graphic skills."
-  const currentURL = "https://thomasboittin.com/"
+    "Probably Nothing Development"
+  const currentURL = "/"
   const previewImage = "img/hero/1.jpg"
 
   const languageContent = LANGUAGE_CONTENT[localeValue]
@@ -64,9 +64,9 @@ export default function Index() {
 
         <Timeline languageContent={languageContent} locale={localeValue} />
 
-        {/* <Price />
+        <Price />
+        <News />
 
-        <News /> */}
 
         <Contact languageContent={languageContent} locale={localeValue} />
 

@@ -1,25 +1,19 @@
 [
   {
-    "keyword": "phone",
-    "icon": "./img/svg/phone.svg",
-    "text": "+33 6 23 39 79 78",
-    "link": "tel:+33623397978"
-  },
-  {
     "keyword": "mail",
     "icon": "./img/svg/mail.svg",
-    "text": "tboittin@gmail.com",
+    "text": "whaledrop@probablynothing.dev",
     "link": "mailto:tboittin@gmaiil.com"
   },
   {
     "keyword": "domain",
     "icon": "./img/svg/globe.svg",
-    "text": "thomasboittin.com",
-    "link": "https://thomasboittin.com/"
+    "text": "probablynothing.dev",
+    "link": "https://probablynothing.dev/"
   },
   {
     "keyword": "location",
     "icon": "./img/svg/placeholder.svg",
-    "text": "6, boulevard Georges Clemenceau, Draguignan, France"
+    "text": "Metaverse - Web 3.0"
   }
 ]

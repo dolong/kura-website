@@ -1,6 +1,6 @@
 {
   "fr": {
-    "pageTitle": "Thomas Boittin - Développeur Front-end",
+    "pageTitle": "Probably Nothing - Développeur Front-end",
     "job": "Développeur Web",
     "headerHome": "Accueil",
     "headerPortfolio": "Portfolio",
@@ -26,8 +26,8 @@
     "footerTermsOfUse": "Mentions légales"
   },
   "en-US": {
-    "pageTitle": "Thomas Boittin - Front End Developer",
-    "job": "Web Developer",
+    "pageTitle": "Probably Nothing Development",
+    "job": "Bootstrapping projects for the hyperverse",
     "headerHome": "Home",
     "headerPortfolio": "Portfolio",
     "headerSkills": "Skills",
@@ -35,8 +35,8 @@
     "headerContact": "Contact",
     "portfolioSubtitle": "Selected Works",
     "externalLink": "External Link",
-    "skillTitle": "Programming Skills",
-    "skillSubtitle": "Here are some tools that I use to create web applications.",
+    "skillTitle": "Services",
+    "skillSubtitle": "We offer the latest technical tools and utilize cutting-edge web3.0 trends.",
     "skillLanguages": "Languages",
     "skillTools": "Tools",
     "skillSoftSkills": "Soft Skills",

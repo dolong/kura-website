@@ -44,6 +44,7 @@ function MyApp({ Component, pageProps }) {
             }, speed);
             setTimeout(function () {
                 document.querySelector("body").classList.add("opened");
+                document.querySelector("body").classList.add("dark");
             }, speed + 2000);
         }
         kura_tm_my_load();

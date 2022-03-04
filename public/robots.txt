@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://thomasboittin.com/sitemap.xml
+Sitemap: https://probablynothing.dev/sitemap.xml

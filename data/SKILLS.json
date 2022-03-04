@@ -1,12 +1,10 @@
 {
   "en-US": {
-    "languages": ["React.js", "Next.js", "Node.js", "Javascript", "HTML & CSS"],
+    "ads": ["Twitter", "Instagram", "Reddit", "Tik Tok"],
+    "languages": ["web3.js","Solidity", "React.js", "Next.js", "Node.js", "Javascript", "HTML & CSS"],
+    "marketing": ["Brand Strategy", "Content Strategy", "Copy Writing", "Analytics and Reports"],
     "tools": ["Git", "Figma", "Vercel", "Firebase", "GraphQL", "mongodb"],
+    "Discord": ["Security", "Whitelisting", "Multiple Language Support", "Partnerships", "Bot Configuration"],
     "softSkills": ["Teamwork", "Autonomy", "Fr & Eng"]
-  },
-  "fr": {
-    "languages": ["React.js", "Next.js", "Node.js", "Javascript", "HTML & CSS"],
-    "tools": ["Git", "Figma", "Vercel", "Firebase", "GraphQL", "mongodb"],
-    "softSkills": ["Travail en équipe", "Autonomie", "Fr & Eng"]
   }
 }

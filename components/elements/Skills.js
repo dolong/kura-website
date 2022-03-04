@@ -49,72 +49,26 @@ const Skills = ({ languageContent, locale }) => {
                 </div>
                 {SKILLS[locale] && (
                   <div className="skills-pills">
-                    <h4>Languages</h4>
+                    
+                    <h4>Ads & Analytics</h4>
+                    {SKILLS[locale].ads.map(skill => (
+                      <Pill text={skill} key={skill} />
+                    ))}
+                    <h4>Marketing</h4>
+                    {SKILLS[locale].marketing.map(skill => (
+                      <Pill text={skill} key={skill} />
+                    ))}
+                    <h4>Discord</h4>
+                    {SKILLS[locale].Discord.map(skill => (
+                      <Pill text={skill} key={skill} />
+                    ))}
+                    <h4>Programming</h4>
                     {SKILLS[locale].languages.map(skill => (
-                      <Pill text={skill} key={skill} />
-                    ))}
-                    <h4>Tools</h4>
-                    {SKILLS[locale].tools.map(skill => (
-                      <Pill text={skill} key={skill} />
-                    ))}
-                    <h4>Soft Skills</h4>
-                    {SKILLS[locale].softSkills.map(skill => (
                       <Pill text={skill} key={skill} />
                     ))}
                   </div>
                 )}
-                {/* <div
-                    className="dodo_progress wow fadeInUp"
-                    data-wow-duration=".7s"
-                    data-wow-delay=".2s"
-                >
-                    <div className="progress_inner" data-value="95">
-                        <span>
-                            <span className="label">
-                                HTML &amp; CSS
-                            </span>
-                            <span className="number">95%</span>
-                        </span>
-                        <div className="background">
-                            <div className="bar">
-                                <div
-                                    className="bar_in"
-                                    style={{ width: "95%" }}
-                                ></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="progress_inner" data-value="80">
-                        <span>
-                            <span className="label">
-                                JavaScript
-                            </span>
-                            <span className="number">80%</span>
-                        </span>
-                        <div className="background">
-                            <div className="bar">
-                                <div
-                                    className="bar_in"
-                                    style={{ width: "80%" }}
-                                ></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="progress_inner" data-value="90">
-                        <span>
-                            <span className="label">WordPress</span>
-                            <span className="number">90%</span>
-                        </span>
-                        <div className="background">
-                            <div className="bar">
-                                <div
-                                    className="bar_in"
-                                    style={{ width: "90%" }}
-                                ></div>
-                            </div>
-                        </div>
-                    </div>
-                </div> */}
+                {}
               </div>
               <div className="right">
                 {/* <ParallaxVideo /> */}
@@ -123,7 +77,7 @@ const Skills = ({ languageContent, locale }) => {
                   data-speed="0"
                   title={IMG_CREDIT["ming-shan-vertical"][locale]}
                   style={{
-                    backgroundImage: "url(/img/ming-shan-vertical.jpg)",
+                    backgroundImage: "url(/img/boredape.png)",
                     backgroundAttachment: "fixed",
                     backgroundPositionX: "450px",
                   }}
