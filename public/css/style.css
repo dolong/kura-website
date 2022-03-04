@@ -1609,6 +1609,10 @@ body.opened .kura_tm_hero .down {
   position: absolute;
   z-index: -11;
 }
+
+.news_popup_informations {
+  text-align: center;
+}
 .kura_tm_modalbox .news_popup_informations {
   width: 100%;
   height: auto;
@@ -2357,6 +2361,15 @@ body.dark .kura_tm_settings .cursor li .svg,
   animation: myAnim 2s infinite 0.6s;
 }
 
+.news_popup_informations h3 {
+  text-align: center;
+color: #000 !important;
+margin: 20px;
+}
+
+.cost a {  
+  text-decoration: none;
+}
 /*---------------------------------------------------*/
 /*	13) KURA MODAL
 /*---------------------------------------------------*/
