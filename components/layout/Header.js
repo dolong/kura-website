@@ -115,28 +115,6 @@ const Header = ({ languageContent, setLocaleValue }) => {
         <div className={isToggled ? "dropdown active" : "dropdown"}>
           <div className="dropdown_inner">
             <ul className="anchor_nav">
-              <li className="opened language">
-                <a>
-                  <Image
-                    className="svg"
-                    src="/img/svg/frenchflagframed.svg"
-                    height="30"
-                    width="30"
-                    alt=""
-                    onClick={() => setLocaleValue("fr")}
-                  />
-                </a>
-                <a>
-                  <Image
-                    className="svg"
-                    src="/img/svg/US-UK_Flag.svg"
-                    height="30"
-                    width="35"
-                    alt=""
-                    onClick={() => setLocaleValue("en-US")}
-                  />
-                </a>
-              </li>
               <li className="current">
                 <a href="#home">{languageContent.headerHome}</a>
               </li>
