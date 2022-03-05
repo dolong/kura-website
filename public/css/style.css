@@ -839,8 +839,6 @@ body.opened .kura_tm_hero .content .right .image .main {
   transform: rotate(7deg);
   background-image: url("/img/metaverse.png");
   background-attachment: fixed;
-  background-position-x: 500px;
-  background-size: contain;
 }
 .kura_tm_hero .content .right .image .shape {
   position: absolute;
@@ -2382,17 +2380,11 @@ margin: 20px;
 /*	14) KURA MEDIA QUERIES (FOR SMALL DEVIVES)
 /*---------------------------------------------------*/
 @media (max-width: 2400px) {
-  body.opened .kura_tm_hero .content .right .image .main {
-    background-position-x: 500px;
-    background-position-y: -100px;
-  }
+  
 }
 
 @media (max-width: 1700px) {
-  body.opened .kura_tm_hero .content .right .image .main {
-    background-position-x: 500px;
-    background-position-y: -800px;
-  }
+  
 }
 
 @media (max-width: 1400px) {
