@@ -5,8 +5,8 @@
       "description": [
         {
           "text": [
-            "ReactJS & NextJS Front End Developer, my goal is to deliver the web application that fit the most my client expectations.",
-            "Always looking for new challenges I am always improving my practices using the last technologies out there."
+            ".",
+            "."
           ]
         }
       ],
@@ -18,26 +18,26 @@
       "description": [
         {
           "text": [
-            "An educated understanding of design can be the difference between a mediocre and a great web application.",
-            "My previous experiences working for and with designers combined with online courses allow me to offer improved user interface with a better visual appearance."
+            ".",
+            "."
           ]
         }
       ],
-      "image": "img/hero/graph.png",
-      "keyword": "graph"
+      "image": "img/hero/1.png",
+      "keyword": "discord"
     },
     {
       "title": "Growth Strategy",
       "description": [
         {
           "text": [
-            "DevOps approach/philosophy that allows to consider the different steps of the deployment process.",
-            "The purpose is a better flow and a better overall management of the integration and deployment/delivery stages."
+            ".",
+            "."
           ]
         }
       ],
-      "image": "img/hero/graph.png",
-      "keyword": "devops"
+      "image": "img/hero/1.png",
+      "keyword": "growth"
     }
   ]
 }

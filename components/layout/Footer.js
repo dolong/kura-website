@@ -31,19 +31,6 @@ const Footer = ({ languageContent, locale }) => {
               className="copyright_inner wow fadeInUp"
               data-wow-duration=".7s"
             >
-              <div className="text">
-                <p>{languageContent.footerCopyright}</p>
-              </div>
-              <div
-                className="text"
-                onClick={() => {
-                  onOpenModal("", languageContent.footerTermsOfUse, TERMS_OF_USE[locale])
-                }}
-              >
-                <a className="footer_link">
-                  <p>{languageContent.footerTermsOfUse}</p>
-                </a>
-              </div>
               {/* <div className="social">
                 <ul>
                   <li>
