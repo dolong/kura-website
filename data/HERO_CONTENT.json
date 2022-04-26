@@ -1,7 +1,7 @@
 {
   "en-US": [
     {
-      "title": "Marketing",
+      "title": "Web 3 Degens",
       "description": [
         {
           "text": [
@@ -14,7 +14,7 @@
       "keyword": "web"
     },
     {
-      "title": "Discord Moderation",
+      "title": "Thought Leaders",
       "description": [
         {
           "text": [
@@ -25,19 +25,6 @@
       ],
       "image": "img/hero/1.png",
       "keyword": "discord"
-    },
-    {
-      "title": "Growth Strategy",
-      "description": [
-        {
-          "text": [
-            ".",
-            "."
-          ]
-        }
-      ],
-      "image": "img/hero/1.png",
-      "keyword": "growth"
     }
   ]
 }

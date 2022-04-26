@@ -8,7 +8,6 @@ import Portfolio from "../components/elements/Portfolio"
 import Skills from "../components/elements/Skills"
 import Timeline from "../components/elements/Timeline"
 import News from "../components/elements/News";
-import Price from "../components/elements/Price";
 import Footer from "../components/layout/Footer"
 import Header from "../components/layout/Header"
 
@@ -24,7 +23,7 @@ export default function Index() {
   const description =
     "Probably Nothing Development"
   const currentURL = "/"
-  const previewImage = "img/hero/1.jpg"
+  const previewImage = "img/hero/1.png"
 
   const languageContent = LANGUAGE_CONTENT[localeValue]
   const pageTitle = languageContent.pageTitle
@@ -62,9 +61,7 @@ export default function Index() {
 
         <Skills languageContent={languageContent} locale={localeValue} />
 
-        <Timeline languageContent={languageContent} locale={localeValue} />
 
-        <Price />
         <News />
 
 

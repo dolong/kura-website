@@ -50,20 +50,12 @@ const Skills = ({ languageContent, locale }) => {
                 {SKILLS[locale] && (
                   <div className="skills-pills">
                     
-                    <h4>Ads & Analytics</h4>
-                    {SKILLS[locale].ads.map(skill => (
-                      <Pill text={skill} key={skill} />
-                    ))}
-                    <h4>Marketing</h4>
-                    {SKILLS[locale].marketing.map(skill => (
-                      <Pill text={skill} key={skill} />
-                    ))}
-                    <h4>Discord</h4>
-                    {SKILLS[locale].Discord.map(skill => (
-                      <Pill text={skill} key={skill} />
-                    ))}
                     <h4>Programming</h4>
                     {SKILLS[locale].languages.map(skill => (
+                      <Pill text={skill} key={skill} />
+                    ))}
+                    <h4>Web 3 Tools</h4>
+                    {SKILLS[locale].Discord.map(skill => (
                       <Pill text={skill} key={skill} />
                     ))}
                   </div>
