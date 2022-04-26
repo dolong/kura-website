@@ -1,17 +1,17 @@
 [
   {
-    "src": "/img/portfolio/8bitdao.png",
-    "thumbnail": "/img/portfolio/8bitdao.png",
-    "title": "The 8-bit DAO",
+    "src": "/img/portfolio/earthanomura.gif",
+    "thumbnail": "/img/portfolio/earthanomura.gif",
+    "title": "Anomura",
     "keyword": "Retro",
     "sub": {
-      "en-US" : "The 8-Bit Dao is a place where we celebrate retro gamification and retro style NFT projects, while being inclusivity-focused. The 8-bit DAO is launching soon on Arbitrum, listed as a Treasure DAO's trove project. "
+      "en-US" : "Anomura is an addictive indie game utilizing NFTs and blockchain technology. Strategic gameplay, beautiful pixel art, contributions to wildlife preservation—this is a game with a greater purpose. "
       },
-    "link": "https://the8bitdao.com"
+    "link": "https://anomuragame.com"
   },
   {
-    "src": "/img/portfolio/humanpark.png",
-    "thumbnail": "/img/portfolio/humanpark.png",
+    "src": "/img/portfolio/hpdev.gif",
+    "thumbnail": "/img/portfolio/hpdev.gif",
     "title": "Human Park",
     "keyword": "Unreal",
     "sub": {
@@ -33,12 +33,22 @@
     "link": "https://zed.run"
   },
   {
+    "src": "/img/portfolio/8bit.gif",
+    "thumbnail": "/img/portfolio/8bit.gif",
+    "title": "The 8-bit DAO",
+    "keyword": "Retro",
+    "sub": {
+      "en-US" : "The 8-Bit Dao is a place where we celebrate retro gamification and retro style NFT projects, while being inclusivity-focused. The 8-bit DAO is launching soon on Arbitrum, listed as a Treasure DAO's trove project. "
+      },
+    "link": "https://the8bitdao.com"
+  },
+  {
     "src": "/img/portfolio/neotokyo.png",
     "thumbnail": "/img/portfolio/neotokyo.png",
     "title": "Neo Tokyo",
     "keyword": "neotokyo",
     "sub": {
-      "en-US" : "The Neo Tokyo NFTs were released in October 2021 and were created by the well-known Crypto YouTuber Alex Becker as well as developer Elliotrades.",
+      "en-US" : "The Neo Tokyo NFTs were released in October 2021 and were created by the well-known Crypto YouTuber Alex Becker as well as developer Elliotrades. We bring in stellar partnerships and discord growth.",
       "fr" : "The Neo Tokyo NFTs were released in October 2021 and were created by the well-known Crypto YouTuber Alex Becker as well as developer Elliotrades."
     },
     "link": "https://opensea.io/collection/neotokyo-outer-identities"
