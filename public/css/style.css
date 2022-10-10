@@ -2597,7 +2597,7 @@ html {
 }
 iframe{
   width: 100%;
-  min-height:1600px;
+  min-height:1800px;
 }
 @supports (-moz-appearance: none) {
   @media (min-width: 1040px) {
