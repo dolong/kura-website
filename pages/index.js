@@ -57,11 +57,6 @@ export default function Index() {
 
         <Home languageContent={languageContent} locale={localeValue} />
 
-        <Portfolio languageContent={languageContent} locale={localeValue} />
-
-        <Skills languageContent={languageContent} locale={localeValue} />
-
-
         <News />
 
 

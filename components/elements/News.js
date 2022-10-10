@@ -18,7 +18,7 @@ const News = () => {
                     <div className="container">
                         <div className="kura_tm_main_title">
                             <span>Follow Us</span>
-                            <h3>Listen to some of our podcasts</h3>
+                            <h3>Media Mentions</h3>
                         </div>
                         <div
                             className="news_list wow fadeInUp"
@@ -27,7 +27,7 @@ const News = () => {
                             <div className="slick-container">
                                 <div className="slick-wrapper">
                                     <Swiper
-                                        slidesPerView={2}
+                                        slidesPerView={3}
                                         spaceBetween={30}
                                         loop={true}
                                         pagination={false}
@@ -37,11 +37,11 @@ const News = () => {
                                         }}
                                         breakpoints={{
                                             320: {
-                                              slidesPerView: 1,
+                                              slidesPerView: 2,
                                               spaceBetween: 20
                                             },
                                             640: {
-                                              slidesPerView: 1,
+                                              slidesPerView: 2,
                                               spaceBetween: 20
                                             },
                                             768: {
@@ -49,7 +49,7 @@ const News = () => {
                                               spaceBetween: 30
                                             },
                                             1024: {
-                                              slidesPerView: 3,
+                                              slidesPerView: 2,
                                               spaceBetween: 40
                                             }
                                           }}
@@ -58,14 +58,14 @@ const News = () => {
                                             <div className="list_inner">
                                                 <div className="image">
                                                     <img
-                                                        src="/img/spotify.png"
+                                                        src="/img/news/atari.jpg"
                                                         alt=""
                                                     />
                                                     <div
                                                         className="main"
                                                         style={{
                                                             backgroundImage:
-                                                                "url(/img/spotify.png)",
+                                                                "url(/img/news/atari.jpg)",
                                                         }}
                                                     ></div>
                                                 </div>
@@ -76,6 +76,7 @@ const News = () => {
                                                     alt=""
                                                 />
                                                 <div className="details">
+                                                1st Ocean-Positive P&E Game To Launch via Anomura
                                                 </div>
                                                 <a
                                                     className="kura_tm_full_link"
@@ -96,14 +97,14 @@ const News = () => {
                                             <div className="list_inner">
                                                 <div className="image">
                                                     <img
-                                                        src="/img/apple_podcasts.png"
+                                                        src="/img/news/Nasdaq-Logo.jpg"
                                                         alt=""
                                                     />
                                                     <div
                                                         className="main"
                                                         style={{
                                                             backgroundImage:
-                                                                "url(/img/apple_podcasts.png)",
+                                                                "url(/img/news/Nasdaq-Logo.jpg)",
                                                         }}
                                                     ></div>
                                                 </div>
@@ -114,6 +115,7 @@ const News = () => {
                                                     alt=""
                                                 />
                                                 <div className="details">
+                                                    The Bitcoin Question on Everyone's Mind
                                                 </div>
                                                 <a
                                                     className="kura_tm_full_link"
@@ -135,14 +137,14 @@ const News = () => {
                                             <div className="list_inner">
                                                 <div className="image">
                                                     <img
-                                                        src="/img/twitter_spaces.png"
+                                                        src="/img/news/anomura-atari.gif"
                                                         alt=""
                                                     />
                                                     <div
                                                         className="main"
                                                         style={{
                                                             backgroundImage:
-                                                                "url(/img/twitter_spaces.png)",
+                                                                "url(/img/news/anomura-atari.gif)",
                                                         }}
                                                     ></div>
                                                 </div>
@@ -153,6 +155,7 @@ const News = () => {
                                                     alt=""
                                                 />
                                                 <div className="details">
+                                                    Anomura Enters into Partnership with Atari
                                                 </div>
                                                 <a
                                                     className="kura_tm_full_link"
