@@ -2595,7 +2595,10 @@ margin: 20px;
 html {
   scroll-behavior: smooth;
 }
-
+iframe{
+  width: 100%;
+  min-height:1600px;
+}
 @supports (-moz-appearance: none) {
   @media (min-width: 1040px) {
     body.opened .kura_tm_hero .content .right .image .main {
