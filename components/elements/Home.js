@@ -32,29 +32,7 @@ const Home = ({ languageContent, locale }) => {
                 <div className="services">
                   <ul>
                     {HERO_CONTENT[locale].map(content => (
-                      <li key={content.keyword}>
-                        <a
-                          href="#"
-                          // onClick={() => {
-                          //   onOpenModal(
-                          //     content.image,
-                          //     content.title,
-                          //     content.description
-                          //   )
-                          // }}
-                        >
-                          <img
-                            className="image"
-                            src="/img/service/1.jpg"
-                            alt=""
-                          />
-                          <span>{content.title}</span>
-                          <img
-                            className="svg"
-                            src="/img/svg/right-arrow.svg"
-                            alt=""
-                          />
-                        </a>
+                      <li key={content.keyword}>                        
                       </li>
                     ))}
                   </ul>
