@@ -32,7 +32,8 @@ const Home = ({ languageContent, locale }) => {
                 <div className="services">
                   <ul>
                     {HERO_CONTENT[locale].map(content => (
-                      <li key={content.keyword}>                        
+                      <li key={content.keyword}>
+                          <span>{content.title}</span>
                       </li>
                     ))}
                   </ul>
