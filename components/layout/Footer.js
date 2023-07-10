@@ -31,55 +31,12 @@ const Footer = ({ languageContent, locale }) => {
               className="copyright_inner wow fadeInUp"
               data-wow-duration=".7s"
             >
-              {/* <div className="social">
-                <ul>
-                  <li>
-                    <a href="#">
-                      <img
-                        className="svg"
-                        src="/img/svg/social/facebook.svg"
-                        alt=""
-                      />
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <img
-                        className="svg"
-                        src="/img/svg/social/twitter.svg"
-                        alt=""
-                      />
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <img
-                        className="svg"
-                        src="/img/svg/social/instagram.svg"
-                        alt=""
-                      />
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <img
-                        className="svg"
-                        src="/img/svg/social/dribbble.svg"
-                        alt=""
-                      />
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <img
-                        className="svg"
-                        src="/img/svg/social/tik-tok.svg"
-                        alt=""
-                      />
-                    </a>
-                  </li>
-                </ul>
-              </div> */}
+              { <div className="social">
+                
+                  {<p>
+                    Probablynothing.dev website is operated by 1000012328 Ontario Inc. 
+                  </p>}
+              </div>}
             </div>
           </div>
         </div>
